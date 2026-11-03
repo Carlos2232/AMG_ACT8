@@ -272,9 +272,6 @@ MonoBehaviour:
   playerTransform: {fileID: 1544189879}
   offset: {x: 0, y: 2, z: -10}
   smoothSpeed: 5
-  useBounds: 0
-  minBounds: {x: 0, y: 0}
-  maxBounds: {x: 0, y: 0}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -1298,7 +1295,7 @@ Transform:
   m_GameObject: {fileID: 1544189874}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.3, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
